@@ -17,10 +17,6 @@ A powerful desktop application for upscaling images using AI-powered Real-ESRGAN
 - 💾 **Format Support** - PNG, JPG, WEBP, BMP output formats
 - ⚡ **GPU Acceleration** - Utilizes NVIDIA GPU for faster processing
 
-## 🖼️ Screenshots
-
-*Add screenshots of your application here*
-
 ## 📋 Requirements
 
 - Windows 10 or later
